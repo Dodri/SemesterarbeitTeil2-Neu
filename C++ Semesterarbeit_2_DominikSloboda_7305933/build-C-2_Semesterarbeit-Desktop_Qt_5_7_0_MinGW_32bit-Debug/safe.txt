@@ -1,0 +1,10 @@
+points | -15
+player | 149 | 479
+object | 138 | 510
+object | 35 | 440
+object | 436 | 370
+object | 363 | 300
+object | 289 | 230
+object | 62 | 160
+object | 381 | 90
+object | 12 | 10
