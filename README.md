@@ -1,4 +1,4 @@
-Softwaretechnologie Teil 2 C++ - Semesterarbeit 
+Programmieren Teil 2: C++ - Semesterarbeit 
 
 von 
 
